@@ -19,8 +19,6 @@
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
 ## ⚡ About Me
-
-```js
 const raiyan = {
   role: "Frontend Developer & UI Designer",
   location: "Bangladesh 🇧🇩",
@@ -29,7 +27,6 @@ const raiyan = {
   funFact: "A broken commit streak hurts more than a broken heart 💀",
   lookingFor: "Collaborations, internships & interesting problems",
 };
-```
 
 > *“Design is how it looks. Code is how it works. I like it when both feel effortless.”*
 
