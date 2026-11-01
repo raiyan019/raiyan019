@@ -19,14 +19,33 @@
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
 ## ⚡ About Me
-const raiyan = {
-  role: "Frontend Developer & UI Designer",
-  location: "Bangladesh 🇧🇩",
-  focus: ["Responsive web apps", "Interactive UIs", "Clean design systems"],
-  currentlyLearning: ["React ecosystem", "Advanced JavaScript", "UI/UX craft"],
-  funFact: "A broken commit streak hurts more than a broken heart 💀",
-  lookingFor: "Collaborations, internships & interesting problems",
-};
+
+<table>
+  <tr>
+    <td>🧑‍💻 <b>Role</b></td>
+    <td>Frontend Developer &amp; UI Designer</td>
+  </tr>
+  <tr>
+    <td>📍 <b>Based in</b></td>
+    <td>Bangladesh</td>
+  </tr>
+  <tr>
+    <td>🎯 <b>Focus</b></td>
+    <td>Responsive web apps · Interactive UIs · Clean design systems</td>
+  </tr>
+  <tr>
+    <td>🌱 <b>Learning</b></td>
+    <td>React ecosystem · Advanced JavaScript · UI/UX craft</td>
+  </tr>
+  <tr>
+    <td>🤝 <b>Looking for</b></td>
+    <td>Collaborations, internships &amp; interesting problems</td>
+  </tr>
+  <tr>
+    <td>💀 <b>Fun fact</b></td>
+    <td>A broken commit streak hurts more than a broken heart</td>
+  </tr>
+</table>
 
 > *“Design is how it looks. Code is how it works. I like it when both feel effortless.”*
 
